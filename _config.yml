@@ -1,19 +1,19 @@
 # Site settings
-title: Your name here
-general_email: your_general_email@gmail.com
-academic_email: your_academic_email@univ
+title: Manideep Mamindlapally
+general_email: manideepyx@ieee.org
+academic_email: manideepyx@iitkgp.ac.in
 
 description: > # this means to ignore newlines until "baseurl:"
   Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
 
-baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 
-url: "https://ys1998.github.io" # the base hostname & protocol for your site
+url: "https://manideepyx.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: github_username
-linkedin_username: linkedin_username
-facebook_username: facebook_username
+github_username: https://github.com/manideepyx
+linkedin_username: https://www.linkedin.com/in/manideep-mamindlapally
+facebook_username: https://www.facebook.com/manideepyx
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
