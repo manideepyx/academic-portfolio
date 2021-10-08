@@ -11,12 +11,13 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://manideepyx.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: 
-linkedin_username: 
-facebook_username: 
+github_username: manideepyx
+linkedin_username: manideepyx
+facebook_username: manideepyx
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 twitter_username: manideepyx
-gscholar_username: https://scholar.google.com/citations?hl=en&user=w-PmSxAAAAAJ
+gscholar_address: https://scholar.google.com/citations?hl=en&user=w-PmSxAAAAAJ
+ieee_address: https://ieeexplore.ieee.org/author/37088954248
 
 # Build settings
 markdown: kramdown
